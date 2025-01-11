@@ -18,7 +18,7 @@ A simple, customizable timer application that displays a timer directly on your 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/timer-on-screen.git
+   git clone https://github.com/chauhankashmira/timer-on-screen.git
    cd timer-on-screen
    ```
 
